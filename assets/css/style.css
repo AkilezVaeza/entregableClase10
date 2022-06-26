@@ -13,6 +13,7 @@
 }
 .imgMain{
     width: 200px;
+    border-radius: 20px;
     transition: all 1s;
 }
 .imgMain:hover{
